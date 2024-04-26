@@ -1,0 +1,47 @@
+.green{
+    color: hsl(75, 94%, 57%);
+}
+.grey{
+    color:  hsl(0, 0%, 100%)
+}
+.content{
+background-color: hsl(0, 0%, 12%); 
+border-radius: 10px;
+align-content: center; 
+width: 500px; 
+}
+.white{
+    color: hsl(0, 0%, 100%)
+}
+button{
+    background-color: hsl(0, 0%, 20%);
+    color:  hsl(0, 0%, 100%);
+    border-radius: 10px; 
+    width: 200px;
+    height: 15px;
+    padding: 20px; 
+    text-align: center;
+    outline-style: solid;
+    outline-color: hsl(0, 0%, 20%);
+}
+button:active{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 12%);
+
+}
+.picture{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+}
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: hsl(0, 0%, 8%);
+    align-content: center;
+}
